@@ -1,3 +1,5 @@
+
+    // 字体是否包含 cash 字样
     const fontIncludeCashMap = new Map();
 
     // 总行数
